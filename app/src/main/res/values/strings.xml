@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">ExpedienteDigitalTT</string>
+    <string name="title_activity_menu">Menu</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Menu de opciones</string>
+    <string name="nav_header_subtitle">Mentente Organizada</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Calendario</string>
+    <string name="menu_slideshow">Expediente</string>
+    <string name="menu_tratamiento">Tratamiento</string>
+    <string name="editTextTimeCitaMedica">Hora de la cita</string>
+    <string name="editTextTimeCitaLaboratorios">Hora de la cita</string>
+    <string name="TextDateFechaTratamiento">Fecha de asignación</string>
+    <string name="editTextDateFechaExpediente">Fecha de expediente</string>
+    <string name="editTextDateFechaBusquedaExpedient">Fecha de busqueda de expediente</string>
+    <string name="editTextEdad">Edad</string>
+    <string name="TextCorreoElectronico">Correo Electronico</string>
+    <string name="validar_biometricos">Validar Biometricos</string>
+    <string name="TextPassword">Ingrese Contraseña</string>
+    <string name="TxtPassconfir">Confirme Contraseña</string>
+    <string name="TextPassOlvidada"><u>Olvide mi contraseña</u></string>
+    <string name="TxtCorreocambiocontra">Ingresa Correo</string>
+</resources>
